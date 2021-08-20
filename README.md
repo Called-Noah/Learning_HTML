@@ -7,7 +7,7 @@
 <!-- Source -->
 <button> 
   <p>
-    <a ref="CS50X" href="https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home">CS0X: WEB PROGRAMMING </a>
+    <a ref="CS50X" href="https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home">CS50X: WEB PROGRAMMING </a>
   </p>
 </button>
 
